@@ -1,0 +1,9 @@
+pdfs/
+corpus/
+chunks.json
+embeddings.npy
+bm25_index.pkl
+venv/
+__pycache__/
+.DS_Store
+.env
